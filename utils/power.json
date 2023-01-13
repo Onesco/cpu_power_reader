@@ -1,0 +1,30 @@
+[
+    {
+        "System Time": "11:54:46:358",
+        "RDTSC": " 46245731554009",
+        "Elapsed Time (sec)": "    0.013",
+        " CPU Utilization(%)": " 1056.000",
+        "CPU Frequency_0(MHz)": "  800",
+        "Processor Power_0(Watt)": "   6.178",
+        "Cumulative Processor Energy_0(Joules)": "   0.082",
+        "Cumulative Processor Energy_0(mWh)": "   0.023",
+        "IA Power_0(Watt)": "   2.307",
+        "Cumulative IA Energy_0(Joules)": "   0.031",
+        "Cumulative IA Energy_0(mWh)": "   0.009",
+        "Package Temperature_0(C)": " 50",
+        "Package Hot_0": "  0",
+        "DRAM Power_0(Watt)": "   1.413",
+        "Cumulative DRAM Energy_0(Joules)": "   0.019",
+        "Cumulative DRAM Energy_0(mWh)": "   0.005",
+        "GT Power_0(Watt)": "   0.000",
+        "Cumulative GT Energy_0(Joules)": "   0.000",
+        "Cumulative GT Energy_0(mWh)": "   0.000",
+        "Package PL1_0(Watt)": "  17.000",
+        "Package PL2_0(Watt)": "  25.000",
+        "Package PL4_0(Watt)": "  32.000",
+        "Platform PsysPL1_0(Watt)": "   0.000",
+        "Platform PsysPL2_0(Watt)": "   0.000",
+        "GT Frequency(MHz)": "99999999",
+        "GT Utilization(%)": "   0.000"
+    }
+]
