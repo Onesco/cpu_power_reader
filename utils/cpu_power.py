@@ -7,7 +7,7 @@ path = f'{BASE_DIR}/third_party_lib/PowerLog3.0.exe'
 new_path  = os.path.normpath(path)
 
 def run_powerLog3(sleep):
-    os.system(f"{new_path} -file power.csv -cmd sleep {sleep}")
+    os.system(f"sudo {new_path} -file power.csv -cmd sleep {sleep}")
 
 
 def make_json(csvFilePath, jsonFilePath, sleep):
